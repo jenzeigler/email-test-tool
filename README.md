@@ -6,7 +6,7 @@ It adds an **Email Test** page under **Tools**. Enter an address, send a test, a
 
 [**▶ Try it live in your browser**](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/jenzeigler/email-test-tool/main/blueprint.json)
 
-The live demo runs in WordPress Playground, which can't deliver real email, so it's a way to see how the tool works rather than to test your own site.
+The live demo runs in WordPress Playground. It will show a successful handoff, but no email is actually delivered, which is a good example of why a successful handoff doesn’t guarantee delivery.
 
 ## Why it exists
 
